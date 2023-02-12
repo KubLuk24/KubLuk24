@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hey, I'm Jakub.
 
-<!--
-**KubLuk24/KubLuk24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a 16 years old JavaScript, Python, C# and C++ developer.** I work on both backend and frontend of websites like https://discords.com and make chatbots.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Positions
+
+- Founder of https://modiplex.com
+- Developer & Moderator for https://discords.com
+- Community Moderator for Among Us VR
+
+
+## Current work
+
+- Preparing **ban.wtf** for launch
+- Adding features to **Template**
+- Creating the **Iridium** (web) **Engine**
+- Finishing up a **WHMCS-to-Discord UI**
+
+## Goals
+
+- Become a **full-stack** software developer
+- Study at the **Faculty of Law** of the Charles University
+- Learn **project management** and leadership
