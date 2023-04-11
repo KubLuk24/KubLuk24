@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jakub.
 
-**I'm a 16 years old JavaScript, Python, C# and C++ developer.** I work on both backend and frontend of websites like https://discords.com and make chatbots.
+**I'm a 16 year old JavaScript, Python, C# and C++ developer.** I work on both backend and frontend of websites like https://discords.com and make chatbots.
 
 
 ## Positions
